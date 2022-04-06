@@ -22,3 +22,6 @@ node_modules/
 *.sql
 *.sqlite
 
+# ignore my config file
+  wp-config.php
+
