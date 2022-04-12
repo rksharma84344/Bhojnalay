@@ -1,0 +1,16 @@
+/* Make the image fully responsive */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.slider-items {
+    width: 100%;
+    height: 600px;
+}
+
+.slider-items img {
+    width: 100%;
+    height: 100%;
+  }
